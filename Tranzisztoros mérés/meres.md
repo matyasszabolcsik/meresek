@@ -69,7 +69,6 @@ Szimulátorban mért eredmények:
 
 ## Képek a méréskhez
 <details>
-  <summary>Képek</summary>
     <details>
       <summary>Mérésben használt alkatrészek</summary>
       <img src="https://github.com/user-attachments/assets/670381f5-1586-4e82-b81d-d2570f7f2ef6">
