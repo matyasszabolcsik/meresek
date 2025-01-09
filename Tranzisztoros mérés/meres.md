@@ -69,27 +69,26 @@ Szimulátorban mért eredmények:
 
 ## Képek a méréskhez
 <details>
-    <details>
-      <summary>Mérésben használt alkatrészek</summary>
-      <img src="https://github.com/user-attachments/assets/670381f5-1586-4e82-b81d-d2570f7f2ef6">
-    </details>
-    <details>
-       <summary>Breadboardon megépített áramkör</summary>
-      <img src="https://github.com/user-attachments/assets/e4d056df-9a72-4caa-8a8d-96aed0a157f3">
-    </details>
-    <details>
-      <summary>Falstad</summary>
-      <img src="https://github.com/user-attachments/assets/7125b3d1-99af-45c5-b186-3b5fe991df44">
-    </details>
-    <details>
-      <summary>Valóságos grafikon</summary>
-      <img src="https://github.com/user-attachments/assets/38523ee9-db2a-44c5-a416-678893c90512">
-    </details>
-    <details>
-      <summary>Szimulátoros grafikon</summary>
-      <img src="https://github.com/user-attachments/assets/002936e8-53cf-45bc-8755-0372fdb675bc">
-    </details>
+  <summary>Mérésben használt alkatrészek</summary>
+  <img src="https://github.com/user-attachments/assets/670381f5-1586-4e82-b81d-d2570f7f2ef6">
 </details>
+<details>
+  <summary>Breadboardon megépített áramkör</summary>
+  <img src="https://github.com/user-attachments/assets/e4d056df-9a72-4caa-8a8d-96aed0a157f3">
+</details>
+<details>
+  <summary>Falstad</summary>
+  <img src="https://github.com/user-attachments/assets/7125b3d1-99af-45c5-b186-3b5fe991df44">
+</details>
+<details>
+  <summary>Valóságos grafikon</summary>
+  <img src="https://github.com/user-attachments/assets/38523ee9-db2a-44c5-a416-678893c90512">
+</details>
+<details>
+  <summary>Szimulátoros grafikon</summary>
+  <img src="https://github.com/user-attachments/assets/002936e8-53cf-45bc-8755-0372fdb675bc">
+</details>
+
 
 ---
 
