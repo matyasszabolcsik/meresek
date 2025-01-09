@@ -13,7 +13,7 @@
 ---
 
 ### **Mérési adatok**
-Szimulátorban mért eredmények:                  Valóságban mért eredmények:
+Szimulátorban mért eredmények:-----------------Valóságban mért eredmények:
 
 | [V] Ube | [V] URC | [mA] IC   |
 |---------|---------|-----------|
