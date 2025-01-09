@@ -10,6 +10,7 @@
 
 **Eszköz gyáriszáma:** 305E1ED
 
+
 ---
 
 ### **Mérési adatok**
