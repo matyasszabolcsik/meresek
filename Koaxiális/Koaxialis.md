@@ -27,15 +27,16 @@
 
 | Frekvencia      | 177.5 MHz      | 858 MHz      | 
 |-----------------|----------------|--------------|
-| Csillapítás     | 0.2 dB         | 1,6 dB       |
+| Erősség         | 90 dB          | 88.5 dB       |
+| Csillapítás     | 0 dB           | 1,5 dB       |
 
 
 <details>
    <summary>Kép az elkészült csatlakozóról</summary>
 
    <img src="https://github.com/matyasszabolcsik/meresek/blob/main/IMG_2037.png" height="300">
-   img src="https://github.com/matyasszabolcsik/meresek/blob/main/IMG_2038.png" height="300">
-   img src="https://github.com/matyasszabolcsik/meresek/blob/main/IMG_2039.png" height="300">
+   <img src="https://github.com/matyasszabolcsik/meresek/blob/main/IMG_2038.png" height="300">
+   <img src="https://github.com/matyasszabolcsik/meresek/blob/main/IMG_2039.png" height="300">
 
 </details>
 
