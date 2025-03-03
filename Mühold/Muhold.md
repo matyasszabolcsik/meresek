@@ -16,20 +16,20 @@
 Egy szabadon fogható (FTA) csatorna véletének beállítása, műholdas vételi rendszer kiépítése és vizsgálata, majd optimális vételi jel csatlakoztatása egy set op boxba, amin keresztül képet jelenítünk meg.  
 
 ## Felhasznált eszközök   
-- Parabolaantenna: D80 Mesh 
-- Műholdvevő fej (LNB):Ekselans SATCR LNB
-- Set-top box: Amiko HD 8265+
-- METEK HDD jelmérő
-- Koaxiális kábelek és csatlakozók
-- 2-es műholdas jelosztó
-- Szerelési eszközök: iránytű, dőlésszögmérő
+**Parabolaantenna: D80 Mesh**<br>
+**Műholdvevő fej (LNB):Ekselans SATCR LNB**<br>
+**Set-top box: Amiko HD 8265+**<br>
+**METEK HDD jelmérő**<br>
+**Koaxiális kábelek és csatlakozók**<br>
+**2-es műholdas jelosztó**<br>
+**Szerelési eszközök: iránytű, dőlésszögmérő**<br>
 
 ## Feladat menete  
-Első lépésnek összeszereltem az antennát, és rátekertem az LNB fejegységet (Ekselans SATCR).  
-Internetes műholdvevő adatbázisból (lyngsat.com) kikerestem a(z) FTA csatornákat és választottam egyet, amely az Eutelsat 9B műhold sugároz.  
-Az iránytű segítségével beállítottam az antenna dőlésszögét, polarizációját pedig a METEK HDD segítségével a lehető legjobb jelre állítottam aminek végül az tetőponti (azimuth) szöge 198 fok lett, emelkedési szöge (elevation) 36 fok és LNB skew (elforgatási) szög 10° lett.  
-Csatlakoztattam egymással az LNB vevőfejet és a set top boxot, mindezek után csatlakoztattam a set top boxot egy monitorra.  
-Beállítottam a set top boxon a megfelelő műholdat (Eurobird 9A 9E) és a TP indexet (11958V) és elintítottam egy TP keresést.  
+**Első lépésnek összeszereltem az antennát, és rátekertem az LNB fejegységet (Ekselans SATCR).**  
+**Internetes műholdvevő adatbázisból (lyngsat.com) kikerestem a(z) FTA csatornákat és választottam egyet, amely az Eutelsat 9B műhold sugároz.**  
+**Az iránytű segítségével beállítottam az antenna dőlésszögét, polarizációját pedig a METEK HDD segítségével a lehető legjobb jelre állítottam aminek végül az tetőponti (azimuth) szöge 198 fok lett, emelkedési szöge (elevation) 36 fok és LNB skew (elforgatási) szög 10° lett.**  
+**Csatlakoztattam egymással az LNB vevőfejet és a set top boxot, mindezek után csatlakoztattam a set top boxot egy monitorra.**  
+**Beállítottam a set top boxon a megfelelő műholdat (Eurobird 9A 9E) és a TP indexet (11958V) és elintítottam egy TP keresést.**  
 
 ## METEK HDD képek és jelszintmérés  
 
