@@ -3,8 +3,7 @@
 # Méréstechnikai Feladat: Műhold
 
 **A mérést végző neve:** Szabolcsik Mátyás
-**A mérés tárgya:**  Műholdas vételi rendszer kiépítése     
-**A mérés száma:** 03. mérés    
+**A mérés tárgya:**  Műholdas vételi rendszer kiépítése         
 **A mérés dátuma:** 2025. 03. 03.    
 **A mérést vezette:** Sándor Péter    
 
