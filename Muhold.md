@@ -48,8 +48,15 @@ Beállítottam a set top boxon a megfelelő műholdat (Eurobird 9A 9E) és a TP 
 </details>
 
 <details>
-   <summary></summary>
+   <summary>A Metek HDD által megjelenített kép</summary>
 
    <img src="https://github.com/matyasszabolcsik/meresek/blob/main/its_snapshot_0004.png" Width="600">
+
+</details>
+
+<details>
+   <summary>A set top boxxal mért erősség és minőség értéke</summary>
+
+   <img src="https://github.com/matyasszabolcsik/meresek/blob/main/IMG_2087.png" Width="600">
 
 </details>
