@@ -2,6 +2,14 @@
 
 # Távközlési Technikus Vizsga Jegyzőkönyv
 
+**A mérést végző neve:** Szabolcsik Mátyás
+**A mérés tárgya:** Koaxiális kábel szerelése       
+**A mérés dátuma:** 2025. 02. 12.    
+**A mérést vezette:** Sándor Péter    
+
+**Évfolyam:** 13. E  
+**Csoport:** GYAK 1   
+**Helyszín:** V3 Labor
 
 ## Feladat: Koaxiális kábel szerelése
 
