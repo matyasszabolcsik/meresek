@@ -32,3 +32,9 @@ Csatlakoztattam egymással az LNB vevőfejet és a set top boxot, mindezek után
 Beállítottam a set top boxon a megfelelő műholdat (Eurobird 9A 9E) és a TP indexet (11958V) és elintítottam egy TP keresést.  
 
 ## METEK HDD képek és jelszintmérés  
+<details>
+   <summary>177.5 MHz-en mért jelszint</summary>
+
+   <img src="https://github.com/matyasszabolcsik/meresek/blob/main/its_snapshot_0002.png" Width="600">
+
+</details>
