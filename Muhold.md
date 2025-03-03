@@ -36,13 +36,20 @@ Beállítottam a set top boxon a megfelelő műholdat (Eurobird 9A 9E) és a TP 
 <details>
    <summary>Az adás jelerőssége</summary>
 
-   <img src="https://github.dev/matyasszabolcsik/meresek/tree/main/3.m%C3%A9r%C3%A9s" Width="600">
+   <img src="https://github.com/matyasszabolcsik/meresek/blob/main/its_snapshot_0006.png" Width="600">
 
 </details>
 
 <details>
    <summary>Az adás spektruma</summary>
 
-   <img src="https://github.dev/matyasszabolcsik/meresek/tree/main/3.m%C3%A9r%C3%A9s" Width="600">
+   <img src="https://github.com/matyasszabolcsik/meresek/blob/main/its_snapshot_0005.png" Width="600">
+
+</details>
+
+<details>
+   <summary></summary>
+
+   <img src="https://github.com/matyasszabolcsik/meresek/blob/main/its_snapshot_0004.png" Width="600">
 
 </details>
